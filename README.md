@@ -1,11 +1,11 @@
-* Le langage Java
+# Le langage Java
 ---
-**Introduction
+## Introduction
 Les caractéristiques du Langage Java :
 + il s'agit d'un langage **orienté objet**
 + il est *portable*
 + il est multithreadé
 
-**Documentation
+## Documentation
 
 Lien vers la documentation officielle : [Documentation](https://docs.oracle.com/en/java/)
